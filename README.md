@@ -24,3 +24,7 @@ Create an app with 4 buttons - each play different drum effects when pressed.
 6. The link mentioned in point 3 also had the snippet on how to play the file - tweaked a little bit as per my requirement and used it to play some dope drum beats !
 7. Created and added app icons.
 8. 🥁 🥁 🥁 🥁 🥁 ....... Done !
+
+## Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/Rrvl7jRz65Y/0.jpg)](https://www.youtube.com/watch?v=Rrvl7jRz65Y)
